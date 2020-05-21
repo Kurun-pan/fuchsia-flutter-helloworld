@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:fuchsia_logger/logger.dart';
 
 void main() {
-  setupLogger(name: 'fuchia_flutter_helloworld');
+  setupLogger(name: 'flutter_helloworld');
   runApp(MyApp());
 }
 

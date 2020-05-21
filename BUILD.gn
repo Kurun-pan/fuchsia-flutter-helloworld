@@ -1,12 +1,12 @@
 import("//topaz/runtime/flutter_runner/flutter_app.gni")
 
-flutter_app("button_flutter") {
+flutter_app("flutter_helloworld") {
   main_dart = "lib/main.dart"
 
   meta = [
     {
-      path = rebase_path("meta/button_flutter.cmx")
-      dest = "button_flutter.cmx"
+      path = rebase_path("meta/flutter_helloworld.cmx")
+      dest = "flutter_helloworld.cmx"
     },
   ]
 

@@ -1,6 +1,6 @@
 {
     "program": {
-        "data": "data/fuchia_flutter_helloworld"
+        "data": "data/flutter_helloworld"
     },
     "sandbox": {
         "services": [
